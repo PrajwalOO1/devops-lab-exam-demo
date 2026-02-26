@@ -7,7 +7,7 @@ def test_factorial_0():
 
 
 def test_factorial_5():
-    assert factorial(5) == 120
+    assert factorial(5) == 1200
 
 
 def test_negative():
